@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title> After class project</title>
+</head>
+<body>
+    <h2> My school's webpage </h2>
+<image>
+    <img src="TIME School.avif" alt="TIME School">
+</image>
+<iframe width="932" height="524" src="https://www.youtube.com/embed/ch411f0FBz0" title="T.I.M.E. School, Bandlaguda Jagir campus, Hyderabad" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
